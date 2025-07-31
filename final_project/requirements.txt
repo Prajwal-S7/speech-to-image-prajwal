@@ -5,4 +5,4 @@ transformers
 diffusers
 librosa
 scipy
-numpy
+nump
